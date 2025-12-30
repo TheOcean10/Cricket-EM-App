@@ -5,7 +5,7 @@ library(stringr)
 library(readxl)
 library(reshape2)
 library(dplyr)
-source("EM_Cricket_to_Arnav_R_Script.R")
+source("EM_Algorithm.R")
 
 ui <- page_fluid(
   h1("Cricket Performance"),
